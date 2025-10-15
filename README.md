@@ -1,6 +1,8 @@
 # A simple landing page for My-BIKE — a modern bicycle brand.
 🎨 [View Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
+> 🚀 [Live Demo](https://taipan-4ik.github.io/My-BIKE/)
+
 ## Technologies Used 💻
 
 ### Core
