@@ -20,6 +20,6 @@
 
 ## Features
 - Responsive design: optimized for different screen sizes and devices, responses on width 320px, 576px 1024px.
-- Smooth animations
+- Smooth animations.
 
 
