@@ -1,4 +1,26 @@
 # A simple landing page for My-BIKE — a modern bicycle brand.
-Built with HTML, CSS to showcase bikes with a clean, responsive design optimized for all devices.
+to showcase bikes with a clean, responsive design optimized for all devices.
 🎨 [View Figma design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+
+## Technologies Used 💻
+
+### Core
+- **HTML5** – Semantic layout  
+- **CSS3** – Responsive design and styling
+
+## Getting Started
+### Clone the repository:
+- `git clone https://github.com/Taipan-4ik/My-BIKE.git`
+- `cd My-BIKE`
+
+### Install dependencies:
+- `npm install` (or `yarn install`)
+
+### Run the project locally:
+- `npm start` (or `yarn start`)
+
+## Features
+- Responsive design: optimized for different screen sizes and devices, responses on width 320px, 576px 1024px.
+- Smooth animations
+
 
